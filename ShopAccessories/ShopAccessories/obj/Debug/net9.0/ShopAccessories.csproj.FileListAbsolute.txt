@@ -1,0 +1,15 @@
+D:\College_3\EP2\ShopAccessories\ShopAccessories\bin\Debug\net9.0\ShopAccessories.deps.json
+D:\College_3\EP2\ShopAccessories\ShopAccessories\bin\Debug\net9.0\ShopAccessories.runtimeconfig.json
+D:\College_3\EP2\ShopAccessories\ShopAccessories\bin\Debug\net9.0\ShopAccessories.dll
+D:\College_3\EP2\ShopAccessories\ShopAccessories\bin\Debug\net9.0\ShopAccessories.pdb
+D:\College_3\EP2\ShopAccessories\ShopAccessories\obj\Debug\net9.0\ShopAccessories.csproj.AssemblyReference.cache
+D:\College_3\EP2\ShopAccessories\ShopAccessories\obj\Debug\net9.0\ShopAccessories.GeneratedMSBuildEditorConfig.editorconfig
+D:\College_3\EP2\ShopAccessories\ShopAccessories\obj\Debug\net9.0\ShopAccessories.AssemblyInfoInputs.cache
+D:\College_3\EP2\ShopAccessories\ShopAccessories\obj\Debug\net9.0\ShopAccessories.AssemblyInfo.cs
+D:\College_3\EP2\ShopAccessories\ShopAccessories\obj\Debug\net9.0\ShopAccessories.csproj.CoreCompileInputs.cache
+D:\College_3\EP2\ShopAccessories\ShopAccessories\obj\Debug\net9.0\EFCoreNpgsqlNetTopologySuite.cs
+D:\College_3\EP2\ShopAccessories\ShopAccessories\obj\Debug\net9.0\ShopAccessories.dll
+D:\College_3\EP2\ShopAccessories\ShopAccessories\obj\Debug\net9.0\refint\ShopAccessories.dll
+D:\College_3\EP2\ShopAccessories\ShopAccessories\obj\Debug\net9.0\ShopAccessories.pdb
+D:\College_3\EP2\ShopAccessories\ShopAccessories\obj\Debug\net9.0\ShopAccessories.genruntimeconfig.cache
+D:\College_3\EP2\ShopAccessories\ShopAccessories\obj\Debug\net9.0\ref\ShopAccessories.dll

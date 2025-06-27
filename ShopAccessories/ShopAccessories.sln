@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ShopAccessories", "ShopAccessories\ShopAccessories.csproj", "{62C15FCF-E368-4024-A203-41ED80DB0F27}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ShopAccessories.Repository", "ShopAccessories.Repository\ShopAccessories.Repository.csproj", "{13F784F1-AD29-4CA4-9A21-BA1A8832810E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ShopAccessories.Application", "ShopAccessories.Application\ShopAccessories.Application.csproj", "{EE1BE279-557B-4AF9-8B9D-616F063B36BB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{62C15FCF-E368-4024-A203-41ED80DB0F27}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{62C15FCF-E368-4024-A203-41ED80DB0F27}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{62C15FCF-E368-4024-A203-41ED80DB0F27}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{62C15FCF-E368-4024-A203-41ED80DB0F27}.Release|Any CPU.Build.0 = Release|Any CPU
+		{13F784F1-AD29-4CA4-9A21-BA1A8832810E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{13F784F1-AD29-4CA4-9A21-BA1A8832810E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{13F784F1-AD29-4CA4-9A21-BA1A8832810E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{13F784F1-AD29-4CA4-9A21-BA1A8832810E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EE1BE279-557B-4AF9-8B9D-616F063B36BB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EE1BE279-557B-4AF9-8B9D-616F063B36BB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EE1BE279-557B-4AF9-8B9D-616F063B36BB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EE1BE279-557B-4AF9-8B9D-616F063B36BB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
